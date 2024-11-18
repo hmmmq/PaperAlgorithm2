@@ -1,0 +1,1 @@
+cmd='/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake;-DCMAKE_BUILD_TYPE=Release;-DCMAKE_INSTALL_PREFIX=/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-jamie/cmake-build-debug/external/opencv_install;-DBUILD_LIST=core,imgproc,imgcodecs;-GNinja;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'

@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "demo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_nms::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_nms-Debug-d74040eefc06d8e510fb.json",
+					"name" : "benchmark_nms",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_nms2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_nms2-Debug-5688cd88f524780833e3.json",
+					"name" : "benchmark_nms2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_threshold::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_threshold-Debug-a4283271da9a11445658.json",
+					"name" : "benchmark_threshold",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_threshold2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_threshold2-Debug-401a5a7b6d687400c008.json",
+					"name" : "benchmark_threshold2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_main-Debug-dbf2f7a4f302d76371ba.json",
+					"name" : "demo_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-c445475a324d7860c1b3.json",
+					"name" : "test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/demo/cmake-build-debug",
+		"source" : "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/demo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

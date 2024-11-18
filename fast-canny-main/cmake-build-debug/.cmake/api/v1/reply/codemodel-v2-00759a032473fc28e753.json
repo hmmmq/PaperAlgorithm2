@@ -1,0 +1,122 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "core",
+					"jsonFile" : "directory-core-Debug-eac7e466be7743a8be0a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "core",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "benchmark",
+					"jsonFile" : "directory-benchmark-Debug-b1f9c84cc15063a9b835.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "benchmark",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "FastCanny",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "core::@57760688d1f824db5d9c",
+					"jsonFile" : "target-core-Debug-74ac3f64248dd99a8745.json",
+					"name" : "core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gaussian_filter_benchmark::@3e2e920e28e9d6b4e283",
+					"jsonFile" : "target-gaussian_filter_benchmark-Debug-aeaae1c9a6ed7086e04d.json",
+					"name" : "gaussian_filter_benchmark",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "opencv_benchmark::@3e2e920e28e9d6b4e283",
+					"jsonFile" : "target-opencv_benchmark-Debug-2149494dc536cf56c98e.json",
+					"name" : "opencv_benchmark",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_project::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_project-Debug-31268ceb71e2aca38f0a.json",
+					"name" : "opencv_project",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug",
+		"source" : "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

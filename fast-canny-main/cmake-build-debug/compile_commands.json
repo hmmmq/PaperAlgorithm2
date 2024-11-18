@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I\"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/core/src\" -I\"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/external/opencv_install/include/opencv4\"  -mavx -mfma -O3 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics -o core/CMakeFiles/core.dir/src/gaussian_filter.cpp.o -c \"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/core/src/gaussian_filter.cpp\"",
+  "file": "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/core/src/gaussian_filter.cpp",
+  "output": "core/CMakeFiles/core.dir/src/gaussian_filter.cpp.o"
+},
+{
+  "directory": "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I\"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/core/src\" -I\"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/external/opencv_install/include/opencv4\"  -mavx -mfma -O3 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics -o core/CMakeFiles/core.dir/src/non_maxima_suppression.cpp.o -c \"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/core/src/non_maxima_suppression.cpp\"",
+  "file": "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/core/src/non_maxima_suppression.cpp",
+  "output": "core/CMakeFiles/core.dir/src/non_maxima_suppression.cpp.o"
+},
+{
+  "directory": "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I\"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/core/src\" -I\"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/external/opencv_install/include/opencv4\"  -mavx -mfma -O3 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics -o core/CMakeFiles/core.dir/src/double_threshold.cpp.o -c \"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/core/src/double_threshold.cpp\"",
+  "file": "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/core/src/double_threshold.cpp",
+  "output": "core/CMakeFiles/core.dir/src/double_threshold.cpp.o"
+},
+{
+  "directory": "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I\"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/external/opencv_install/include/opencv4\" -I\"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/core/src\"  -mavx -mfma -O3 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics -o benchmark/CMakeFiles/opencv_benchmark.dir/src/opencv_benchmark.cpp.o -c \"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/benchmark/src/opencv_benchmark.cpp\"",
+  "file": "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/benchmark/src/opencv_benchmark.cpp",
+  "output": "benchmark/CMakeFiles/opencv_benchmark.dir/src/opencv_benchmark.cpp.o"
+},
+{
+  "directory": "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I\"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/external/opencv_install/include/opencv4\" -I\"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/core/src\"  -mavx -mfma -O3 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics -o benchmark/CMakeFiles/gaussian_filter_benchmark.dir/src/gaussian_filter_benchmark.cpp.o -c \"/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/benchmark/src/gaussian_filter_benchmark.cpp\"",
+  "file": "/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/benchmark/src/gaussian_filter_benchmark.cpp",
+  "output": "benchmark/CMakeFiles/gaussian_filter_benchmark.dir/src/gaussian_filter_benchmark.cpp.o"
+}
+]

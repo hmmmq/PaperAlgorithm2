@@ -1,0 +1,13 @@
+# Target labels
+ opencv_project
+# Source files and their labels
+/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/CMakeFiles/opencv_project
+/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/CMakeFiles/opencv_project.rule
+/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/CMakeFiles/opencv_project-complete.rule
+/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/opencv_project-prefix/src/opencv_project-stamp/opencv_project-build.rule
+/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/opencv_project-prefix/src/opencv_project-stamp/opencv_project-configure.rule
+/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/opencv_project-prefix/src/opencv_project-stamp/opencv_project-download.rule
+/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/opencv_project-prefix/src/opencv_project-stamp/opencv_project-install.rule
+/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/opencv_project-prefix/src/opencv_project-stamp/opencv_project-mkdir.rule
+/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/opencv_project-prefix/src/opencv_project-stamp/opencv_project-patch.rule
+/Users/meiqihuang/Public/Github Repo/PaperAlgorithm2/fast-canny-main/cmake-build-debug/opencv_project-prefix/src/opencv_project-stamp/opencv_project-update.rule

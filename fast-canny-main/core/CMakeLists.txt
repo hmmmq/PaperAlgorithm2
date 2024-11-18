@@ -1,7 +1,6 @@
 add_library(core STATIC src/gaussian_filter.cpp
         src/non_maxima_suppression.h
         src/non_maxima_suppression.cpp
-        src/main.cpp
         src/double_threshold.h
         src/double_threshold.cpp)
 
